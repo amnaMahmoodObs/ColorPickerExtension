@@ -1,0 +1,8 @@
+*.class
+*.jar
+*.aix
+*.nix
+/build/
+/out/
+.DS_Store
+Thumbs.db
